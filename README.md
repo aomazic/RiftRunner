@@ -4,7 +4,7 @@
 
 ## Features
 - **Movement Mechanics**: Wall running and sliding mechanics for dynamic traversal and fluid movement.
-- **Momentum-Based Gameplay**: Actions like sliding and wall running preserve your momentum, encouraging skillful play.
+- **Momentum-Based Gameplay**: Actions like sliding, wall running and dashing preserve your momentum, encouraging skillful play.
 - **Short Campaign**: Three action-packed levels designed to challenge your movement and shooting skills.
 - **Platforming**: Includes platforming elements like spikes, jump pads and moving platforms.
 - **Unity Powered**: Developed using Unity.
